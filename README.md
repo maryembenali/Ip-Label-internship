@@ -50,7 +50,7 @@ Each log file captures specific events or activities related to different APIs, 
 
 It's important to note that this dataset is part of the preliminary data and that additional data was provided later, based on the other information requested. As the project progresses, the data understanding phase will be further refined and expanded to include the complete dataset and any additional data sources that were received later.
 ## Data preparation
-In the data preparation phase, I carefully read through the log files, seeking to comprehend their content thoroughly. My aim was to identify relevant information that could be instrumental in identifying client patterns. Once the pertinent data was recognized, I extracted and organized it into JSON files. These JSON files now contain the crucial information necessary for the subsequent steps of the project, enabling us to effectively analyze and leverage the data in our efforts to uncover valuable insights into client behavior and preferences.
+In the data preparation phase, I carefully read through the log files, seeking to comprehend their content thoroughly. My aim was to identify relevant information that could be instrumental in identifying client patterns. Once the pertinent data was recognized, I extracted and organized it into JSON files. [These JSON files](Bureau.rar) now contain the crucial information necessary for the subsequent steps of the project, enabling us to effectively analyze and leverage the data in our efforts to uncover valuable insights into client behavior and preferences.
 
 
 
