@@ -37,6 +37,9 @@ Seamlessly integrate APM solutions with AI development platforms, allowing conti
 Develop specialized APM modules to capture, interpret, and analyze real-time brainwave data from Neuro-Interface applications, gaining insights into user mental states during interactions.
 Utilize AI algorithms to correlate brainwave patterns with application performance, enabling personalized adjustments based on the user's cognitive responses.
 ## Subject selection
+[this file](idea.pptx) explains the process of choosing my internship project subject.
+The Final thought on the project topic : Throughout this internship, I have the privilege of working on an exciting project focused on building a recommendation system. Leveraging the power of user interactions and usage patterns with IP-Label's remarkable solution, e-kara, our aim is to create a seamless user experience and revolutionize how recommendations are made.
+
 
 
 
