@@ -36,4 +36,7 @@ Seamlessly integrate APM solutions with AI development platforms, allowing conti
 - Neuro-Interface APM:
 Develop specialized APM modules to capture, interpret, and analyze real-time brainwave data from Neuro-Interface applications, gaining insights into user mental states during interactions.
 Utilize AI algorithms to correlate brainwave patterns with application performance, enabling personalized adjustments based on the user's cognitive responses.
+## Subject selection
+
+
 
