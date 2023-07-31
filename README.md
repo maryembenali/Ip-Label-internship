@@ -38,7 +38,12 @@ Develop specialized APM modules to capture, interpret, and analyze real-time bra
 Utilize AI algorithms to correlate brainwave patterns with application performance, enabling personalized adjustments based on the user's cognitive responses.
 ## Subject selection
 [this file](idea.pptx) explains the process of choosing my internship project subject.
-The Final thought on the project topic : Throughout this internship, I have the privilege of working on an exciting project focused on building a recommendation system. Leveraging the power of user interactions and usage patterns with IP-Label's remarkable solution, e-kara, our aim is to create a seamless user experience and revolutionize how recommendations are made.
+The Final thought on the project topic : Throughout this internship, I have the privilege of working on an exciting project focused on building a recommendation system. Leveraging the power of user interactions and usage patterns with IP-Label's remarkable solution, e-kara, our aim is to create a seamless user experience and revolutionize how recommendations are made. </br>
+
+So after we chose to work on leveraging **recommendation systems**, we came to the conclusion that we need to extract the different client patterns that we will later use in various **recommendation scenarios**. These patterns will serve as the foundation for predicting the **next steps** for the user, suggesting helpful **features or content** that may appeal to them, and even recommending a **user interface** that suits their unique profile. By extracting and analyzing these patterns from user interactions and behavior, we aim to enhance the overall user experience and provide **personalized recommendations** that cater to individual preferences and needs. Our project aims to harness the power of **recommendation systems** to create a more engaging and tailored experience for our users, ultimately leading to increased user satisfaction and retention.
+
+In a next step, I conducted research on commonly used classification models in recommendation techniques and identified the most suitable ones for our case. [This file](benchmark1.pptx) serves as documentation of that research.
+
 
 
 
