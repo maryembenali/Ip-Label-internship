@@ -41,8 +41,18 @@ Utilize AI algorithms to correlate brainwave patterns with application performan
 The Final thought on the project topic : Throughout this internship, I have the privilege of working on an exciting project focused on building a recommendation system. Leveraging the power of user interactions and usage patterns with IP-Label's remarkable solution, e-kara, our aim is to create a seamless user experience and revolutionize how recommendations are made. </br>
 
 So after we chose to work on leveraging **recommendation systems**, we came to the conclusion that we need to extract the different client patterns that we will later use in various **recommendation scenarios**. These patterns will serve as the foundation for predicting the **next steps** for the user, suggesting helpful **features or content** that may appeal to them, and even recommending a **user interface** that suits their unique profile. By extracting and analyzing these patterns from user interactions and behavior, we aim to enhance the overall user experience and provide **personalized recommendations** that cater to individual preferences and needs. Our project aims to harness the power of **recommendation systems** to create a more engaging and tailored experience for our users, ultimately leading to increased user satisfaction and retention.
+## Pattern extraction Models 
+In a next step, I conducted research on commonly used classification models in recommendation techniques and identified the most suitable ones for our case. [This file](Benchmark1.pptx) serves as documentation of that research.
+## Data understanding
+In the data understanding part, the preliminary data consists of 662 log files with various titles such as "API-Restit-RUM-Web-error__2023-06-08_00-00-00", "DFY-active-results-api-out__2023-06-08_00-00-00", "DFY-administration-api-error__2023-06-08_00-00-00", "DFYConfigService-out__2023-06-08_00-00-00", "DFYWebSocketService-error__2023-06-08_00-00-00", and others.
 
-In a next step, I conducted research on commonly used classification models in recommendation techniques and identified the most suitable ones for our case. [This file](benchmark1.pptx) serves as documentation of that research.
+Each log file captures specific events or activities related to different APIs, services, or components. The filenames often indicate the type of data being logged, such as "error" or "out," and are timestamped with the date and time when the log entry was recorded.
+
+It's important to note that this dataset is part of the preliminary data and that additional data was provided later, based on the other information requested. As the project progresses, the data understanding phase will be further refined and expanded to include the complete dataset and any additional data sources that were received later.
+## Data preparation
+In the data preparation phase, I carefully read through the log files, seeking to comprehend their content thoroughly. My aim was to identify relevant information that could be instrumental in identifying client patterns. Once the pertinent data was recognized, I extracted and organized it into JSON files. These JSON files now contain the crucial information necessary for the subsequent steps of the project, enabling us to effectively analyze and leverage the data in our efforts to uncover valuable insights into client behavior and preferences.
+
+
 
 
 
