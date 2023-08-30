@@ -44,7 +44,7 @@ So after we chose to work on leveraging **recommendation systems**, we came to t
 ## Pattern extraction Models 
 In a next step, I conducted research on commonly used classification models in recommendation techniques and identified the most suitable ones for our case. [This file](Benchmark1.pptx) serves as documentation of that research.
 ## Data understanding
-In the data understanding part, the preliminary data consists of 662 log files with various titles such as "API-Restit-RUM-Web-error__2023-06-08_00-00-00", "DFY-active-results-api-out__2023-06-08_00-00-00", "DFY-administration-api-error__2023-06-08_00-00-00", "DFYConfigService-out__2023-06-08_00-00-00", "DFYWebSocketService-error__2023-06-08_00-00-00", and others.
+In the data understanding part, the preliminary data consists of 661 log files with various titles such as "API-Restit-RUM-Web-error__2023-06-08_00-00-00", "DFY-active-results-api-out__2023-06-08_00-00-00", "DFY-administration-api-error__2023-06-08_00-00-00", "DFYConfigService-out__2023-06-08_00-00-00", "DFYWebSocketService-error__2023-06-08_00-00-00", and others.
 
 Each log file captures specific events or activities related to different APIs, services, or components. The filenames often indicate the type of data being logged, such as "error" or "out," and are timestamped with the date and time when the log entry was recorded.
 
